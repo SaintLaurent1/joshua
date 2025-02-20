@@ -15,3 +15,4 @@ changes
 
 bago
 binago
+sabi ni sir mag bago
